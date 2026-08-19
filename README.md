@@ -5,15 +5,15 @@ A modern landing page concept for a tea brand, built using HTML5 and Tailwind CS
 <br>
 
 <details>
-  <summary>
-    <a href="#" style="color: blue; text-decoration: underline;">
-      <b>✨ 🎯 Click Here to Preview Full Landing Page Screenshot 📸</b>
-    </a>
+  <summary style="color: blue; text-decoration: underline; cursor: pointer;">
+    <b>✨ 🎯 Click Here to Preview Full Landing Page Screenshot 📸</b>
   </summary>
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/Shanjida-Islam138/simple-html-css-tailwind-recap-project/52b34119ca867fd94e93f4ccf7ecaae17976beec/Tea-house-landing-page.jpeg" alt="Tea House Landing Page Preview" width="100%">
+  <img src="https://raw.githubusercontent.com/Shanjida-Islam138/simple-html-css-tailwind-recap-project/52b34119ca867fd94e93f4ccf7ecaae17976beec/Tea-house-landing-page.jpeg"
+       alt="Tea House Landing Page Preview"
+       width="100%">
 </details>
 
 <br>
